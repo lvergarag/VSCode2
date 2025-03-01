@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Otro Archivo  3
+=======
+<<<<<<< HEAD
+Cambio 3cdfghij
+mas cambios 
+=======
+Cambio 3cdf
+>>>>>>> f22c7e425875ec40bb141b0377b2f711bcb8092e
+>>>>>>> 87be154f0695dad641eaec427d89e56463f5c717
