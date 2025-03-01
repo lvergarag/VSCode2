@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Cambio 3cdfghij
 mas cambios 
+=======
+Cambio 3cdf
+>>>>>>> f22c7e425875ec40bb141b0377b2f711bcb8092e
